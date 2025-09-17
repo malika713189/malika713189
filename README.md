@@ -31,5 +31,6 @@
 
 ## 📫 Let's Connect
 - 🔗 [GitHub](https://github.com/malika713189)  
-- 💼 Open to **Data Analyst opportunities**  
+- 📧 Email: **shivarlaamalika@gmail.com**  
+- 💼 Open to **Data Analyst**, **Power BI Developer**, and other **data-related opportunities**  
 
