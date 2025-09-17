@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Malika Shivarla  
 
-<!--
-**malika713189/malika713189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | Passionate about turning data into actionable insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About Me
+- 📊 Skilled in **Python, SQL, Excel, Power BI** for data analysis and visualization.  
+- 🤖 Hands-on experience with **machine learning models** for prediction and analysis.  
+- 📈 Strong background in **EDA (Exploratory Data Analysis)**, data cleaning, and dashboarding.  
+- 💡 Interested in solving business problems through data-driven decision-making.  
+- 🌟 Currently looking for a **Data Analyst role** to apply and grow my skills.  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🎓 [Academic Performance Prediction (Python + Power BI)](https://github.com/malika713189/academic-performance-prediction)  
+- Predicted student **CGPA** using survey data (attendance, study hours, family income, etc.).  
+- Built and trained a **Random Forest model** (R² ≈ 0.77).  
+- Developed a **Power BI dashboard** for interactive insights.  
+
+---
+
+### 📺 [YouTube Data Analyst Finder (Python)](https://github.com/malika713189/youtube-data-analyst-finder)  
+- A smart tool to find **short, high-quality YouTube tutorials** for data analysts.  
+- Used **Python scripts** to fetch, filter, and tag YouTube videos.  
+- Created a simple **dashboard view** for exploring curated resources.  
+
+---
+
+## 📫 Let's Connect
+- 🔗 [GitHub](https://github.com/malika713189)  
+- 💼 Open to **Data Analyst opportunities**  
+
