@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Let's Connect
-- 🔗 [GitHub](https://github.com/malika713189)  
+- 🔗 LinkedIn (https://www.linkedin.com/in/malika-data-analyst)
 - 📧 Email: **shivarlaamalika@gmail.com**  
 - 💼 Open to **Data Analyst**, **Power BI Developer**, and other **data-related opportunities**  
 
