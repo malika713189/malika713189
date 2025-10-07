@@ -31,6 +31,6 @@
 
 ## 📫 Let's Connect
 - 🔗 LinkedIn (https://www.linkedin.com/in/malika-data-analyst)
-- 📧 Email: **shivarlaamalika@gmail.com**  
+- 📧 Email: **shmalika1@gmail.com**  
 - 💼 Open to **Data Analyst**, **Power BI Developer**, and other **data-related opportunities**  
 
